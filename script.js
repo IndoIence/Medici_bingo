@@ -81,6 +81,7 @@ function resetBingo(){
 	const grid = document.getElementById('bingoGrid')
 	grid.childNodes.forEach(a => a.classList.remove('marked'))
 	grid.childNodes[12].classList.toggle('marked');
+	document.getElementById('message').textContent = '';
 }
 const btn = document.getElementById('button')
 btn.addEventListener('click', resetBingo)
