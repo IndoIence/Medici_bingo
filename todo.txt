@@ -1,0 +1,4 @@
+1. Zmienić logo medici na całe czarne np przez zamianę wsztstkiego nieprzeźroczystego na czarne
+2. Dodać przycisk reset
+3. Dodać tło z medici
+4. Wystawić to na świat
